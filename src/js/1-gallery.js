@@ -90,5 +90,3 @@ const lightbox = new SimpleLightbox('.gallery-link', {
   captionPosition: 'bottom',
   captionDelay: 250,
 });
-
-

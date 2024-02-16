@@ -1,9 +1,28 @@
 /* Form styles */
 
+.feedback-form {
+  border-radius: 8px;
+  padding: 24px;
+  width: 408px;
+  height: 296px;
+  background: #fff;
+}
+
+.label {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+/* width: 360px;
+height: 192px; */
 
 
-
-
-
-
+/* border: 1px solid #808080;
+border-radius: 4px;
+width: 360px;
+height: 40px; */
 
